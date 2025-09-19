@@ -4,10 +4,9 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "SYNERGYM - Modern Unisex Fitness Center",
+  title: "FITPULSEGYM -  Where Energy Meets Strength",
   description:
-    "Transform your fitness journey at SYNERGYM. Modern equipment, expert trainers, and a supportive community for all fitness levels.",
-  generator: "v0.app",
+    "Transform your fitness journey at FITPULSEGYM. Modern equipment, expert trainers, and a supportive community for all fitness level."
 }
 
 export default function RootLayout({
